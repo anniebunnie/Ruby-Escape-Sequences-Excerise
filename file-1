@@ -1,0 +1,7 @@
+# This program should give users a brief tutorial on using escape sequences in Ruby.
+# Write some code that prints the following (without comment markers) when run:
+# 
+p "When you include \t in a double-quoted string in Ruby, the output looks like this:"
+puts "before\tafter"
+p "When you include \n in a double-quoted string, the output looks like this:"
+puts "before\nafter"
